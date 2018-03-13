@@ -11,9 +11,9 @@
 ---
 - Thời khoá biểu:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tiết | Thứ 3         | Thứ 4         | Thứ 5    | Thứ 6 |
+| ---  | ------------- |:-------------:| -----:   | ----- |
+| 1-3  | col 3 is      | HDHLiNux      | $1600    | PLDC  |
+| 4-6  |  THTKHTM      | TKHTMang      | PTUDQL 2 | TTHCM |
+| 7-9  | zebra stripes | are neat      |    $1    |       |
 
